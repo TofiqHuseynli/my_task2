@@ -68,6 +68,13 @@ ul.header{
     margin-right: 2px;
 
 }
+.times{
+    color: rgb(223, 15, 15);
+    font-size: 1.3rem;
+    cursor: pointer;
+}
+
+
 .add-btn{
     width: 35%;
     height: 45px;
